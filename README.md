@@ -19,9 +19,10 @@ perulangan (loop), fungsi, dan array sederhana), dan menarik teh
 ## Penjelasan Program
 - Bahasa pemrograman yang digunakan: C
 - Fitur utama:
- - Input data nilai
- - Perhitungan otomatis
- - Output hasil IPK
+ - Input data pengeluaran atau pemasukan uang
+ - Dapat memilih dompet yang digunakan(tunia, debit, gopay, dll)
+ - Melihat data saldo setiap dompetnya
+ - Melihat riwayat transaksi
 - Konsep yang digunakan:
  - Input/output
  - Variabel
@@ -29,4 +30,6 @@ perulangan (loop), fungsi, dan array sederhana), dan menarik teh
  - Loop (perulangan)
 - Fungsi
 - Array
+- Struct
+- Strdup
 ## Link Video Demo
